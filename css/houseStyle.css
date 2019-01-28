@@ -1,0 +1,16 @@
+#refreshButton {
+	position: absolute;
+	margin: 0px;
+	right: 5px;
+	bottom: 5px;
+}
+
+#canvas {
+	border: black solid;
+	position: absolute;
+	width: 600px;
+	left: 25%;
+	right: 25%;
+	margin: 0px;
+	height: 600px;
+}
